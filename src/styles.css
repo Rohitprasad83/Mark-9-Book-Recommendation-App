@@ -21,21 +21,18 @@ div button {
 
 ul {
   list-style-type: none;
-  margin: 0 auto;
+  margin: 1rem auto;
 }
 
 ul li {
   display: block;
-  margin-top: 1rem;
-  margin-right: 3rem;
-
+  margin: 2rem auto;
   padding: 1rem;
   background-color: #e5e7eb;
   border: 2px solid black;
   border-radius: 0.5rem;
   text-align: left;
   padding: 1rem;
-  margin-bottom: 30px;
 }
 
 #content {
